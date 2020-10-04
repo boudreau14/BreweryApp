@@ -14,3 +14,11 @@ We hope you enjoy our creation!<br />
 Sincerely,<br />
 The Brew Bro’s Team<br />
 
+## Main page
+![Screenshot](images/Main.png?raw=true "Screen Shot")<br />
+
+## Search
+![Screenshot](images/Search.png?raw=true "Screen Shot")<br />
+
+## Results
+![Screenshot](images/result.png?raw=true "Screen Shot")<br />
